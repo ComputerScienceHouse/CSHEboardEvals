@@ -1,2 +1,0 @@
-# CSHEboardEvals
-Eboard Evals Site
