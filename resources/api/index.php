@@ -116,7 +116,9 @@ if(isset($_POST['position'])){
             case "social":
                 $position = "Social";
                 break;
-            
+            case "secretary":
+                $position = "Secretary";
+                break;
         }
         
         
